@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align='center'>Welcome to my Github</h2>
 
 <p align="center">
