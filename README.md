@@ -16,6 +16,7 @@ After some shopping around, I finally decided to attend Code Fellows Premeier Te
 Since then I have worked to stay sharp in my coding skills and continue my job search. The journey continues!
 
 <br>
+
 [![Vinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinnyShipley&&layout=compact&theme=shadow_blue&card_width=800&langs_count=10)](https://github.com/VinnyShipley/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyShipley&layout=compact&theme=shadow_blue&card_width=800&langs_count=10)](https://github.com/VinnyShipley/github-readme-stats)
