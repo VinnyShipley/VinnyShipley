@@ -1,5 +1,6 @@
 <h2 align='center'>Welcome to my Github</h2>
 
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/vinny-shipley/" target="_blank" rel="noopener noreferrer"><img height="38" src="./images/pngwing.com.png">
 <a href="mailto:vinnyshipley.com" target="_blank" rel="noopener noreferrer"><img height="35" src="./images/pngwing.com (1).png"></a>&nbsp;&nbsp;
