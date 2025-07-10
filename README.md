@@ -12,6 +12,8 @@
 
 <h3 align="center">The Story at the Beginning of the Story</h3>
 
+<h3 align="center">The Story at the Beginning of the Story</h3>
+
 <p>
 Like many in the restaurant industry, the COVID-19 pandemic hit hard. The joy and stability I once found in that career disappeared, and I found myself adrift and uncertain about the future.
 </p>
@@ -25,8 +27,13 @@ After some research and reflection, I enrolled in Code Fellows’ premier tech a
 </p>
 
 <p>
-Since graduating, I’ve continued to build my skills through hands-on projects and consistent learning — always looking for new ways to grow and apply what I’ve learned. The journey isn’t over, but I’m excited about the path I’m on.
+Building on that foundation, I am now pursuing a Bachelor of Science in Computer Science at Western Governors University (WGU), further developing my technical skills and deepening my knowledge in the field.
 </p>
+
+<p>
+Since starting this journey, I’ve continued to build my skills through hands-on projects and consistent learning — always looking for new ways to grow and apply what I’ve learned. The journey isn’t over, but I’m excited about the path I’m on.
+</p>
+
 
 <hr>
 
